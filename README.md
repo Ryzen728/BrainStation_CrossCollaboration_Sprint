@@ -20,20 +20,17 @@ Criteria Satisfaction:
 1. The analysis was not statistically advanced, but it demonstrated a human oversight and thoughtfulness that is not considered often enough. 
 2. The insights are actionable and can directly support decision-making. It is a more costly approach, however.
 
-Takeaways:
-1. I should have been more assertive with respect to ensuring a data-driven product solution for the market.
-2. I found that the presentation time was too short to explain all of the information I thought was important. If builing the model was in scope, there would be no time to discuss it and the surrounding context.
-
 Contributions:
 1. Software Engineers: The app solution concept. 
 2. UX Designer: UX design, including the figma site.
-3. Data Scientist (myself):
-  Conceptualization: Recognizing the importance of the ethical quality of the training data and not accepting the convential ready-made pre-training data, which is not transparent nor known to emphasize ethical values.
-  Data Cleaning: Checking for null and missing values
-  Feature Engineering: Consolidating records into count values and merging datasets for EDA and data visualization
-  Exploratory Data Analysis (EDA): Verifying how the ethical datasets address ethical principles, and noting how imbalances in the data will add its own bias.
-  Data Visualization: Representing the count data as bar charts, merging count data with a geospatial dataset to present the geographical distribution of data points.
-  Presentation: Focusing on the need to ensure the source data is as ethical as possible, rather than showcasing statistical analysis skills with questionable underlying data.
+3. Data Scientist (myself): <br>
+  Conceptualization: Recognizing the importance of the ethical quality of the training data and not accepting the convential ready-made pre-training data, which is not transparent nor known to emphasize ethical values. <br>
+  Data Sourcing: Kaggle.com <br>
+  Data Cleaning: Checking for null and missing values <br>
+  Feature Engineering: Consolidating records into count values and merging datasets for EDA and data visualization. <br>
+  Exploratory Data Analysis (EDA): Verifying how the ethical datasets address ethical principles, and noting how imbalances in the data will add its own bias. <br>
+  Data Visualization: Representing the count data as bar charts, merging count data with a geospatial dataset to present the geographical distribution of data points. <br>
+  Presentation: Focusing on the need to ensure the source data is as ethical as possible, rather than showcasing statistical analysis skills with questionable underlying data. <br>
 
 Contributors: <br>
 Viktor Zivojinovic <br>
